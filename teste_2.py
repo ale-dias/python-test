@@ -1,6 +1,6 @@
 import requests  # Biblioteca para fazer requisições HTTP
 
-# Chave da API do TMDb (substitua pela sua chave válida)
+# Chave da API do TMDb 
 API_KEY = "fa51e2e027f968ba6fd5386dc6649d6a"
 BASE_URL = "https://api.themoviedb.org/3"
 
