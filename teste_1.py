@@ -1,7 +1,6 @@
 import requests  # Importamos a biblioteca requests para fazer chamadas HTTP
-import json  # Importamos json para formatar a saída dos dados
 
-# Chave de API do TMDb (substitua pela sua chave válida)
+# Chave de API do TMDb 
 API_KEY = "fa51e2e027f968ba6fd5386dc6649d6a"
 BASE_URL = "https://api.themoviedb.org/3"
 
